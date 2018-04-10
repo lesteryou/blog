@@ -7,6 +7,7 @@
     "require": {
         "php": ">=7.0.0",
         "fideloper/proxy": "~3.3",
+        "barryvdh/laravel-ide-helper": "^2.4",
         "dflydev/apache-mime-types": "^1.0",
         "erusev/parsedown": "^1.6",
         "intervention/image": "^2.3",
